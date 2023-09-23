@@ -1,1 +1,16 @@
 # introducao-javascript
+EQUIPE:6ºA
+
+EQUIPE:6ºB
+
+EQUIPE:7ºA
+
+EQUIPE:7ºB
+
+EQUIPE:8ºA
+
+EQUIPE:8ºB
+
+EQUIPE:9ºA
+
+EQUIPE:9ºB
